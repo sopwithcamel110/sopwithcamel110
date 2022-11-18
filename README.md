@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sopwithcamel110
+- 👋 Hi, I’m Donovan
 - 👀 I’m interested in becoming a back-end software engineering intern
 - 🌱 I’m currently learning Data Structures and Sorting Algorithms
 - 📫 Reach me at donovandevise@gmail.com
