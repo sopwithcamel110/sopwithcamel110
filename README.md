@@ -10,7 +10,7 @@ I started programming at just 8 years old through [Roblox Studio](https://www.ro
 I am most proud of the two games I developed in Unity C#, Purge of the Undead and I Gotta Escape. The first is a 3D Open World shooter game, and the second is an infinite generation platformer using custom assets.
 
 ## What am I currently working on?
-I'm currently studying data structures and sorting algorithms to better my understanding of foundational programming concepts.
+I'm currently studying data structures and sorting algorithms to better my understanding of foundational programming concepts. I would like to sharpen my JS skills by creating an interactive API to showcase this knowledge in the future.
 
 ## Contact Me
 You can reach me at [donovandevise@gmail.com](mailto:donovandevise@gmail.com)
