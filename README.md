@@ -7,10 +7,10 @@ Currently at [University of California, Santa Cruz](https://www.ucsc.edu/) plann
 I started programming at 8 years old through [Roblox Studio](https://www.roblox.com/create). My first coding language was C++, followed by Python, which I learned through taking summer camps at [ID Tech](https://www.idtech.com/) during my summers in middle and high school. Since then I have continued my studies through university courses and self-teaching. Today, my best coding languages are Python, Go, C++, and Java. 
 
 ## What am I most proud of?
-I am most proud of the two games I developed in Unity C#, Purge of the Undead and I Gotta Escape. The first is a 3D Open World shooter game, and the second is an infinite generation platformer using custom assets.
+I am most proud of the two web apps I developed recently, Visualized Sorting Algorithms and ReAInvent. The first is a React webpage that takes any input and shows the sorting process with a variety of algorithms, and ReAInvent is a tool that takes a YouTube link and trains a chatbot to answer any question you have about the content within the video and give timestamps. Check it out [here.](https://reainvent.com)
 
 ## What am I currently working on?
-I'm currently studying data structures and sorting algorithms to better my understanding of foundational programming concepts. I would like to sharpen my JS skills by creating an interactive API to showcase this knowledge in the future.
+I'm currently working on the front end of ReAInvent and hosting it with Nginx on a Google Cloud VM.
 
 ## Contact Me
 You can reach me at [donovandevise@gmail.com](mailto:donovandevise@gmail.com)
